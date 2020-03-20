@@ -18,6 +18,7 @@ Matsumoto describes the design of Ruby as being like a simple Lisp language at i
 <a name="references"></a>
 ## 2. Official references websites. 
 Ruby official website : https://www.ruby-lang.org <br />
+Ruby installer for Microsoft Windows operating system : https://rubyinstaller.org <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
