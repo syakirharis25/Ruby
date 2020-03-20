@@ -20,6 +20,9 @@ Matsumoto describes the design of Ruby as being like a simple Lisp language at i
 Ruby official website : https://www.ruby-lang.org <br />
 Ruby installer for Microsoft Windows operating system : https://rubyinstaller.org <br />
 
+**_Ruby text editor_** <br />
+Atom by GitHub : https://atom.io <br />
+
 <a name="developers"></a>
 ## 3. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
