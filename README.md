@@ -23,6 +23,9 @@ Ruby installer for Microsoft Windows operating system : https://rubyinstaller.or
 **_Ruby text editor_** <br />
 Atom by GitHub : https://atom.io <br />
 
+**_Ruby related articles_** <br />
+Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
+
 <a name="developers"></a>
 ## 3. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
