@@ -35,6 +35,7 @@ Ruby | Numeric ceil() function by GeeksforGeeks : https://www.geeksforgeeks.org/
 Ruby | Numeric floor() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-floor-function/ <br />
 Ruby | Math sqrt() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-sqrt-function/ <br />
 Ruby | Math log() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-log-function/ <br />
+Ruby | String reverse Method by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-string-reverse-method/ <br />
 
 **_Ruby related articles_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
