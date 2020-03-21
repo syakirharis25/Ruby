@@ -45,8 +45,11 @@ Ruby | Math sqrt() function by GeeksforGeeks : https://www.geeksforgeeks.org/rub
 Ruby | Math log() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-log-function/ <br />
 Ruby | String reverse Method by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-string-reverse-method/ <br />
 
-**_Ruby related articles_** <br />
+**_Ruby documentation by Techotopia_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
+Ruby Operators by by Techotopia : https://www.techotopia.com/index.php/Ruby_Operators <br />
+
+**_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 Hashes by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html <br />
 Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_methods.htm <br />
