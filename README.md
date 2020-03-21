@@ -35,6 +35,7 @@ How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://
 How to Use The Ruby Gets & Ruby Chomp Methods by RubyGuides : https://www.rubyguides.com/2019/10/ruby-chomp-gets/ <br />
 How to Sort Arrays & Hashes in Ruby (Examples Included) by RubyGuides : https://www.rubyguides.com/2017/07/ruby-sort/ <br />
 The Many Uses Of Ruby Case Statements by RubyGuides : https://www.rubyguides.com/2015/10/ruby-case/ <br />
+How To Read & Write Files in Ruby (With Examples) by RubyGuides :https://www.rubyguides.com/2015/05/working-with-files-ruby/ <br />
 
 **_Ruby documentation by GeeksforGeeks_** <br />
 Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
@@ -57,6 +58,7 @@ Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
+Readline by ruby-doc.org : https://ruby-doc.org/stdlib-2.5.1/libdoc/readline/rdoc/Readline.html <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
