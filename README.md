@@ -23,6 +23,22 @@ Ruby installer for Microsoft Windows operating system : https://rubyinstaller.or
 **_Ruby text editor_** <br />
 Atom by GitHub : https://atom.io <br />
 
+**_Ruby documentation by RubyGuides_** <br />
+Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
+How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://www.rubyguides.com/2018/09/ruby-conversion-methods/<br/>
+How to Use The Ruby Gets & Ruby Chomp Methods by RubyGuides : https://www.rubyguides.com/2019/10/ruby-chomp-gets/ <br />
+
+**_Ruby documentation by GeeksforGeeks_** <br />
+Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
+Ruby | Numeric round() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-round-function/ <br />
+Ruby | Numeric ceil() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-ceil-function/ <br />
+Ruby | Numeric floor() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-floor-function/ <br />
+Ruby | Math sqrt() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-sqrt-function/ <br />
+Ruby | Math log() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-log-function/ <br />
+
+**_Ruby related articles_** <br />
+Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
+
 <a name="developers"></a>
 ## 3. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
