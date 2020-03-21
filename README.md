@@ -31,6 +31,7 @@ How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://
 Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
 Ruby | Numeric round() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-round-function/ <br />
 Ruby | Numeric ceil() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-ceil-function/ <br />
+Ruby | Numeric floor() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-floor-function/ <br />
 
 **_Ruby related articles_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
