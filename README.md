@@ -23,6 +23,9 @@ Ruby installer for Microsoft Windows operating system : https://rubyinstaller.or
 **_Ruby text editor_** <br />
 Atom by GitHub : https://atom.io <br />
 
+**_Ruby questions and answers by Stack Overflow_** <br />
+How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
+
 **_Ruby documentation by RubyGuides_** <br />
 Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
 How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://www.rubyguides.com/2018/09/ruby-conversion-methods/<br/>
