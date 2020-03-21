@@ -29,6 +29,10 @@ How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflo
 **_Ruby documentation by ruby-lang.org_** <br />
 Ruby in Twenty Minutes by ruby-lang.org : https://www.ruby-lang.org/en/documentation/quickstart/2/ <br />
 
+**_Ruby documentation by ruby-doc.org_** <br />
+Readline by ruby-doc.org : https://ruby-doc.org/stdlib-2.5.1/libdoc/readline/rdoc/Readline.html <br />
+IO by ruby-doc.org : https://ruby-doc.org/core-2.7.0/IO.html#method-c-new <br />
+
 **_Ruby documentation by RubyGuides_** <br />
 Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
 How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://www.rubyguides.com/2018/09/ruby-conversion-methods/<br/>
@@ -58,7 +62,6 @@ Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
-Readline by ruby-doc.org : https://ruby-doc.org/stdlib-2.5.1/libdoc/readline/rdoc/Readline.html <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
