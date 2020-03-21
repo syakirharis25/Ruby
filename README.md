@@ -25,6 +25,7 @@ Atom by GitHub : https://atom.io <br />
 
 **_Ruby related articles_** <br />
 Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
+Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
