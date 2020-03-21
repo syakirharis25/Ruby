@@ -4,9 +4,10 @@ My works related to Ruby programming language.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Ruby developers.](#developers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Ruby File.open modes.](#file)
+4. [Ruby developers.](#developers)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -25,9 +26,15 @@ Atom by GitHub : https://atom.io <br />
 
 **_Ruby questions and answers by Stack Overflow_** <br />
 How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
+What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
+How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
 
 **_Ruby documentation by ruby-lang.org_** <br />
 Ruby in Twenty Minutes by ruby-lang.org : https://www.ruby-lang.org/en/documentation/quickstart/2/ <br />
+
+**_Ruby documentation by ruby-doc.org_** <br />
+Readline by ruby-doc.org : https://ruby-doc.org/stdlib-2.5.1/libdoc/readline/rdoc/Readline.html <br />
+IO by ruby-doc.org : https://ruby-doc.org/core-2.7.0/IO.html#method-c-new <br />
 
 **_Ruby documentation by RubyGuides_** <br />
 Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
@@ -58,10 +65,23 @@ Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
-Readline by ruby-doc.org : https://ruby-doc.org/stdlib-2.5.1/libdoc/readline/rdoc/Readline.html <br />
+
+<a name="file"></a>
+## 3. Ruby File.open modes.
+ 
+| Mode |  Meaning                                                  
+|------|-----------------------------------------------------------------------------------------------------------------------------   
+| "r"  |  Read-only, starts at beginning of file  (default mode).   
+| "r+" |  Read-write, starts at beginning of file.                 
+| "w"  |  Write-only, truncates existing file to zero length or creates a new file for writing.         
+| "w+" |  Read-write, truncates existing file to zero length or creates a new file for reading and writing.             
+| "a"  |  Write-only, starts at end of file if file exists, otherwise creates a new file for writing.                  
+| "a+" |  Read-write, starts at end of file if file exists, otherwise creates a new file for reading and writing.
+| "b"  |  Binary file mode (may appear with any of the key letters listed above). Suppresses EOL <-> CRLF conversion on Windows, and               sets external encoding to ASCII-8BIT unless explicitly specified.                                                 
+| "t"  |  Text file mode (may appear with any of the key letters listed above except "b").          
 
 <a name="developers"></a>
-## 3. Ruby developers.
+## 4. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
 Gabor Szabo : https://github.com/szabgab <br />
  
