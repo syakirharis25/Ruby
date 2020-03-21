@@ -49,6 +49,7 @@ Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.ph
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 Hashes by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html <br />
 Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_methods.htm <br />
+The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
