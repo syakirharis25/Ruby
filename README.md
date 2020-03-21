@@ -32,6 +32,7 @@ Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksfor
 Ruby | Numeric round() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-round-function/ <br />
 Ruby | Numeric ceil() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-ceil-function/ <br />
 Ruby | Numeric floor() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-numeric-floor-function/ <br />
+Ruby | Math sqrt() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-sqrt-function/ <br />
 
 **_Ruby related articles_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
