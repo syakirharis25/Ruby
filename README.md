@@ -29,6 +29,7 @@ How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://
 
 **_Ruby related articles_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
+Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
