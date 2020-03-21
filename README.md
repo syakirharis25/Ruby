@@ -48,6 +48,7 @@ Ruby | String reverse Method by GeeksforGeeks : https://www.geeksforgeeks.org/ru
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 Hashes by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html <br />
+Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_methods.htm <br />
 
 <a name="developers"></a>
 ## 3. Ruby developers.
