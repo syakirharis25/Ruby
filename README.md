@@ -65,6 +65,7 @@ Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
+Ruby Exceptions by rubylearning.com : http://rubylearning.com/satishtalim/ruby_exceptions.html <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
