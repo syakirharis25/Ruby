@@ -68,35 +68,35 @@ Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-
 <a name="file"></a>
 ## 3. Ruby File.open modes.
 
------+--------------------------------------------------------
-Mode |  Meaning
------+--------------------------------------------------------
-"r"  |  Read-only, starts at beginning of file  (default mode).
------+--------------------------------------------------------
-"r+" |  Read-write, starts at beginning of file.
------+--------------------------------------------------------
-"w"  |  Write-only, truncates existing file
-     |  to zero length or creates a new file for writing.
------+--------------------------------------------------------
-"w+" |  Read-write, truncates existing file to zero length
-     |  or creates a new file for reading and writing.
------+--------------------------------------------------------
-"a"  |  Write-only, starts at end of file if file exists,
-     |  otherwise creates a new file for writing.
------+--------------------------------------------------------
-"a+" |  Read-write, starts at end of file if file exists,
-     |  otherwise creates a new file for reading and
-     |  writing.
------+--------------------------------------------------------
-"b"  |  Binary file mode (may appear with
-     |  any of the key letters listed above).
-     |  Suppresses EOL <-> CRLF conversion on Windows. And
-     |  sets external encoding to ASCII-8BIT unless explicitly
-     |  specified.
------+--------------------------------------------------------
-"t"  |  Text file mode (may appear with
-     |  any of the key letters listed above except "b").
------+--------------------------------------------------------
+-----+--------------------------------------------------------   <br />
+Mode |  Meaning                                                  <br />
+-----+--------------------------------------------------------   <br />
+"r"  |  Read-only, starts at beginning of file  (default mode).  <br />
+-----+--------------------------------------------------------   <br />
+"r+" |  Read-write, starts at beginning of file.                 <br />
+-----+--------------------------------------------------------   <br />
+"w"  |  Write-only, truncates existing file                      <br />
+     |  to zero length or creates a new file for writing.        <br />
+-----+--------------------------------------------------------   <br />
+"w+" |  Read-write, truncates existing file to zero length       <br />
+     |  or creates a new file for reading and writing.           <br />
+-----+--------------------------------------------------------   <br />
+"a"  |  Write-only, starts at end of file if file exists,        <br />
+     |  otherwise creates a new file for writing.                <br />
+-----+--------------------------------------------------------   <br />
+"a+" |  Read-write, starts at end of file if file exists,        <br />
+     |  otherwise creates a new file for reading and             <br />
+     |  writing.                                                 <br />
+-----+--------------------------------------------------------   <br />
+"b"  |  Binary file mode (may appear with                        <br />
+     |  any of the key letters listed above).                    <br />
+     |  Suppresses EOL <-> CRLF conversion on Windows. And       <br />
+     |  sets external encoding to ASCII-8BIT unless explicitly   <br />
+     |  specified.                                               <br />
+-----+--------------------------------------------------------   <br />
+"t"  |  Text file mode (may appear with                          <br />
+     |  any of the key letters listed above except "b").         <br />
+-----+--------------------------------------------------------   <br />
 
 <a name="developers"></a>
 ## 4. Ruby developers.
