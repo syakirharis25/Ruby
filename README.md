@@ -27,6 +27,7 @@ Atom by GitHub : https://atom.io <br />
 **_Ruby questions and answers by Stack Overflow_** <br />
 How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
 What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
+How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
 
 **_Ruby documentation by ruby-lang.org_** <br />
 Ruby in Twenty Minutes by ruby-lang.org : https://www.ruby-lang.org/en/documentation/quickstart/2/ <br />
