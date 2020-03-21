@@ -69,7 +69,7 @@ Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-
 ## 3. Ruby File.open modes.
 
 -----+--------------------------------------------------------   <br />
-Mode |  Meaning                                                  <br />
+Mode |  Meaning                                                  
 -----+--------------------------------------------------------   <br />
 "r"  |  Read-only, starts at beginning of file  (default mode).  <br />
 -----+--------------------------------------------------------   <br />
