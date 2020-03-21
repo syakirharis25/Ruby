@@ -26,6 +26,7 @@ Atom by GitHub : https://atom.io <br />
 **_Ruby documentation by RubyGuides_** <br />
 Understanding The Differences Between Puts, Print & P by RubyGuides : https://www.rubyguides.com/2018/10/puts-vs-print/ <br />
 How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://www.rubyguides.com/2018/09/ruby-conversion-methods/<br/>
+How to Use The Ruby Gets & Ruby Chomp Methods by RubyGuides : https://www.rubyguides.com/2019/10/ruby-chomp-gets/ <br />
 
 **_Ruby documentation by GeeksforGeeks_** <br />
 Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
