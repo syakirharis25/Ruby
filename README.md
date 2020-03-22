@@ -73,6 +73,7 @@ The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
 Ruby Exceptions by rubylearning.com : http://rubylearning.com/satishtalim/ruby_exceptions.html <br />
 Ruby Exception Handling: ZeroDivisionError by airbrake.io : https://airbrake.io/blog/ruby-exception-handling/zerodivisionerror <br />
+Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
