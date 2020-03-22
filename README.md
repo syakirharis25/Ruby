@@ -62,6 +62,7 @@ Ruby Operators by by Techotopia : https://www.techotopia.com/index.php/Ruby_Oper
 **_Ruby documentation by tutorialspoint.com_** <br />
 Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_methods.htm <br />
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
+Ruby - Classes and Objects by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_classes.htm <br />
 
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
