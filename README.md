@@ -53,6 +53,7 @@ Ruby | Math sqrt() function by GeeksforGeeks : https://www.geeksforgeeks.org/rub
 Ruby | Math log() function by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-math-log-function/ <br />
 Ruby | String reverse Method by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-string-reverse-method/ <br />
 Ruby | Loops (for, while, do..while, until) by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-loops-for-while-do-while-until/ <br />
+Ruby | Data Types by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-data-types/ <br />
 
 **_Ruby documentation by Techotopia_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
