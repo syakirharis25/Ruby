@@ -83,6 +83,7 @@ Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Ruby Exception Handling: ZeroDivisionError by airbrake.io : https://airbrake.io/blog/ruby-exception-handling/zerodivisionerror <br />
 Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html <br />
+Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6 <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
