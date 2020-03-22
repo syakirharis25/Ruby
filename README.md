@@ -42,7 +42,8 @@ How to Use Ruby Conversion Methods (to_s, to_a, to_str) by RubyGuides : https://
 How to Use The Ruby Gets & Ruby Chomp Methods by RubyGuides : https://www.rubyguides.com/2019/10/ruby-chomp-gets/ <br />
 How to Sort Arrays & Hashes in Ruby (Examples Included) by RubyGuides : https://www.rubyguides.com/2017/07/ruby-sort/ <br />
 The Many Uses Of Ruby Case Statements by RubyGuides : https://www.rubyguides.com/2015/10/ruby-case/ <br />
-How To Read & Write Files in Ruby (With Examples) by RubyGuides :https://www.rubyguides.com/2015/05/working-with-files-ruby/ <br />
+How To Read & Write Files in Ruby (With Examples) by RubyGuides : https://www.rubyguides.com/2015/05/working-with-files-ruby/ <br />
+How to Use attr_accessor, attr_writer & attr_reader by RubyGuides : https://www.rubyguides.com/2018/11/attr_accessor/ <br />
 
 **_Ruby documentation by GeeksforGeeks_** <br />
 Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
