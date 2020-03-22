@@ -66,12 +66,15 @@ Ruby - Methods by tutorialspoint.com : https://www.tutorialspoint.com/ruby/ruby_
 Ruby - if...else, case, unless by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_if_else.htm <br />
 Ruby - Classes and Objects by tutorialspoint : https://www.tutorialspoint.com/ruby/ruby_classes.htm <br />
 
+**_Ruby documentation by rubylearning.com_** <br />
+Ruby Exceptions by rubylearning.com : http://rubylearning.com/satishtalim/ruby_exceptions.html <br />
+Ruby Inheritance by rubylearning.com : http://rubylearning.com/satishtalim/ruby_inheritance.html <br />
+
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 Hashes by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html <br />
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
-Ruby Exceptions by rubylearning.com : http://rubylearning.com/satishtalim/ruby_exceptions.html <br />
 Ruby Exception Handling: ZeroDivisionError by airbrake.io : https://airbrake.io/blog/ruby-exception-handling/zerodivisionerror <br />
 Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html <br />
 
