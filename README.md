@@ -74,10 +74,13 @@ Ruby Inheritance by rubylearning.com : http://rubylearning.com/satishtalim/ruby_
 Hashes by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/built_in_classes/hashes.html <br />
 Modules by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/advanced/modules.html <br />
 
+**_Ruby documentation by ThoughtCo_** <br />
+Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
+The "Require" Method in Ruby by ThoughtCo : https://www.thoughtco.com/requre-method-2908199 <br />
+
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
-Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
 Ruby Exception Handling: ZeroDivisionError by airbrake.io : https://airbrake.io/blog/ruby-exception-handling/zerodivisionerror <br />
 Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html <br />
 
