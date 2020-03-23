@@ -85,6 +85,7 @@ The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog
 Ruby Exception Handling: ZeroDivisionError by airbrake.io : https://airbrake.io/blog/ruby-exception-handling/zerodivisionerror <br />
 Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beginners.rubymonstas.org/writing_classes/initializers.html <br />
 Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6 <br />
+Understanding `self` in Ruby by Starr Horne : https://www.honeybadger.io/blog/ruby-self-cheat-sheet/ <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
@@ -104,6 +105,7 @@ Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https:
 ## 4. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
 Gabor Szabo : https://github.com/szabgab <br />
+Starr Horne : https://github.com/starrhorne, https://twitter.com/starrhorne <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
