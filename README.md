@@ -25,7 +25,10 @@ Ruby installer for Microsoft Windows operating system : https://rubyinstaller.or
 Atom by GitHub : https://atom.io <br />
 
 **_Ruby questions and answers_** <br />
-Stack Overflow questions and answers website : https://stackoverflow.com <br /> 
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Ruby documentation by APIdock_** <br />
+object_id by APIdock : https://apidock.com/ruby/Object/object_id <br />
 
 **_Ruby documentation by ruby-lang.org_** <br />
 Ruby in Twenty Minutes by ruby-lang.org : https://www.ruby-lang.org/en/documentation/quickstart/2/ <br />
