@@ -93,6 +93,7 @@ What are the Ruby File.open modes and options? by Stack Overflow : https://stack
 How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
 Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
 How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/questions/116593/how-do-you-clear-the-irb-console <br />
+ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-ruby-building-blocks <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
