@@ -60,6 +60,7 @@ Ruby | Loops (for, while, do..while, until) by GeeksforGeeks : https://www.geeks
 Ruby | Data Types by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-data-types/ <br />
 Ruby | Class & Object by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-class-object/ <br />
 Ruby | Types of Iterators by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-types-of-iterators/ <br />
+Ruby getters and setters Method by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-getters-and-setters-method/ <br />
 
 **_Ruby documentation by Techotopia_** <br />
 Understanding Ruby Variables by Techotopia : https://www.techotopia.com/index.php/Understanding_Ruby_Variables <br />
