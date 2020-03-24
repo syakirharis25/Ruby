@@ -95,6 +95,7 @@ How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/ques
 Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
 How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/questions/116593/how-do-you-clear-the-irb-console <br />
 ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-ruby-building-blocks <br />
+Self in Ruby: A Comprehensive Overview by Andrew Powell-Morse : https://airbrake.io/blog/ruby/self-ruby-overview <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
@@ -115,6 +116,7 @@ ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.c
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
 Gabor Szabo : https://github.com/szabgab <br />
 Starr Horne : https://github.com/starrhorne, https://twitter.com/starrhorne <br />
+Andrew Powell-Morse : https://twitter.com/Andrewpomo <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
