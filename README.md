@@ -24,11 +24,8 @@ Ruby installer for Microsoft Windows operating system : https://rubyinstaller.or
 **_Ruby text editor_** <br />
 Atom by GitHub : https://atom.io <br />
 
-**_Ruby questions and answers by Stack Overflow_** <br />
-How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
-What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
-How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
-Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
+**_Ruby questions and answers_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br /> 
 
 **_Ruby documentation by ruby-lang.org_** <br />
 Ruby in Twenty Minutes by ruby-lang.org : https://www.ruby-lang.org/en/documentation/quickstart/2/ <br />
@@ -88,6 +85,13 @@ Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beg
 Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6 <br />
 Understanding `self` in Ruby by Starr Horne : https://www.honeybadger.io/blog/ruby-self-cheat-sheet/ <br />
 Ruby flow control by zetcode.com : http://zetcode.com/lang/rubytutorial/flowcontrol/ <br />
+
+**_Ruby questions and answers by Stack Overflow_** <br />
+How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
+What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
+How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
+Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
+How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/questions/116593/how-do-you-clear-the-irb-console <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
