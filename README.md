@@ -79,6 +79,15 @@ Modules by Ruby For Beginners : http://ruby-for-beginners.rubymonstas.org/advanc
 Using Comments in Ruby by ThoughtCo : https://www.thoughtco.com/commenting-ruby-code-2908193 <br />
 The "Require" Method in Ruby by ThoughtCo : https://www.thoughtco.com/requre-method-2908199 <br />
 
+**_Ruby questions and answers by Stack Overflow_** <br />
+How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
+What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
+How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
+Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
+How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/questions/116593/how-do-you-clear-the-irb-console <br />
+ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-ruby-building-blocks <br />
+What is the difference between print and puts? by Stack Overflow : https://stackoverflow.com/questions/5018633/what-is-the-difference-between-print-and-puts <br />
+
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
 The Difference Between to_s & to_str In Ruby by marcgg : https://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/ <br />
@@ -87,14 +96,6 @@ Initializing objects by ruby-for-beginners.rubymonstas.org : http://ruby-for-beg
 Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https://medium.com/@ellishim/understanding-require-vs-require-relative-vs-require-all-80e3b26d89e6 <br />
 Understanding `self` in Ruby by Starr Horne : https://www.honeybadger.io/blog/ruby-self-cheat-sheet/ <br />
 Ruby flow control by zetcode.com : http://zetcode.com/lang/rubytutorial/flowcontrol/ <br />
-
-**_Ruby questions and answers by Stack Overflow_** <br />
-How do you sort multiple types in ruby? by Stack Overflow : https://stackoverflow.com/questions/6968414/how-do-you-sort-multiple-types-in-ruby <br />
-What are the Ruby File.open modes and options? by Stack Overflow : https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options <br />
-How to write to file in Ruby? by Stack Overflow : https://stackoverflow.com/questions/2777802/how-to-write-to-file-in-ruby <br />
-Why use Ruby's attr_accessor, attr_reader and attr_writer? by Stack Overflow : https://stackoverflow.com/questions/5046831/why-use-rubys-attr-accessor-attr-reader-and-attr-writer <br />
-How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/questions/116593/how-do-you-clear-the-irb-console <br />
-ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-ruby-building-blocks <br />
 Self in Ruby: A Comprehensive Overview by Andrew Powell-Morse : https://airbrake.io/blog/ruby/self-ruby-overview <br />
 
 <a name="file"></a>
