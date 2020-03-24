@@ -42,6 +42,7 @@ How to Sort Arrays & Hashes in Ruby (Examples Included) by RubyGuides : https://
 The Many Uses Of Ruby Case Statements by RubyGuides : https://www.rubyguides.com/2015/10/ruby-case/ <br />
 How To Read & Write Files in Ruby (With Examples) by RubyGuides : https://www.rubyguides.com/2015/05/working-with-files-ruby/ <br />
 How to Use attr_accessor, attr_writer & attr_reader by RubyGuides : https://www.rubyguides.com/2018/11/attr_accessor/ <br />
+The Ultimate Guide to Blocks, Procs & Lambdas by RubyGuides : https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/ <br />
 
 **_Ruby documentation by GeeksforGeeks_** <br />
 Ruby Integer abs() function with example by GeeksforGeeks : https://www.geeksforgeeks.org/ruby-integer-abs-function-with-example/ <br />
