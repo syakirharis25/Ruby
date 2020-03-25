@@ -92,6 +92,7 @@ How Do You Clear The IRB Console? by Stack Overflow : https://stackoverflow.com/
 ADVANCED RUBY BUILDING BLOCKS by THE ODIN PROJECT : https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-ruby-building-blocks <br />
 What is the difference between print and puts? by Stack Overflow : https://stackoverflow.com/questions/5018633/what-is-the-difference-between-print-and-puts <br />
 What is attr_accessor in Ruby? by Stack Overflow : https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby <br />
+What is the meaning of “do | |” in Ruby? by Stack Overflow : https://stackoverflow.com/questions/4836820/what-is-the-meaning-of-do-in-ruby <br />
 
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
