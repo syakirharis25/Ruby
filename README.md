@@ -97,6 +97,7 @@ What is the difference between print and puts? by Stack Overflow : https://stack
 What is attr_accessor in Ruby? by Stack Overflow : https://stackoverflow.com/questions/4370960/what-is-attr-accessor-in-ruby <br />
 What is the meaning of “do | |” in Ruby? by Stack Overflow : https://stackoverflow.com/questions/4836820/what-is-the-meaning-of-do-in-ruby <br />
 How to update ruby in windows by Stack Overflow : https://stackoverflow.com/questions/15722703/how-to-update-ruby-in-windows <br />
+How to Uninstall RVM? [duplicate] by Stack Overflow : https://stackoverflow.com/questions/3950260/how-to-uninstall-rvm <br />
 
 **_Ruby related articles_** <br />
 Convert String to Number in Ruby by Gabor Szabo : https://code-maven.com/convert-string-to-number-in-ruby <br />
