@@ -107,6 +107,7 @@ Understanding Require vs. Require_relative vs. Require_all by Elli Shim : https:
 Understanding `self` in Ruby by Starr Horne : https://www.honeybadger.io/blog/ruby-self-cheat-sheet/ <br />
 Ruby flow control by zetcode.com : http://zetcode.com/lang/rubytutorial/flowcontrol/ <br />
 Self in Ruby: A Comprehensive Overview by Andrew Powell-Morse : https://airbrake.io/blog/ruby/self-ruby-overview <br />
+How to Install latest Ruby on Rails on Ubuntu 18.04 LTS by VITUX : https://vitux.com/how-to-install-latest-ruby-on-rails-on-ubuntu/ <br />
 
 <a name="file"></a>
 ## 3. Ruby File.open modes.
