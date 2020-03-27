@@ -127,9 +127,9 @@ How to Install latest Ruby on Rails on Ubuntu 18.04 LTS by VITUX : https://vitux
 <a name="developers"></a>
 ## 4. Ruby developers.
 Ruby on Rails was created by Yukihiro Matsumoto : https://github.com/matz, https://twitter.com/yukihiro_matz <br />
-Gabor Szabo : https://github.com/szabgab <br />
-Starr Horne : https://github.com/starrhorne, https://twitter.com/starrhorne <br />
-Andrew Powell-Morse : https://twitter.com/Andrewpomo <br />
+Andrew Powell-Morse : https://twitter.com/Andrewpomo | Ruby <br />
+Gabor Szabo : https://github.com/szabgab | Ruby <br />
+Starr Horne : https://github.com/starrhorne, https://twitter.com/starrhorne | Ruby <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
